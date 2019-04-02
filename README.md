@@ -1,5 +1,7 @@
-# java、
-0328 review
+# java
+# shenrui（https://github.com/shenrui95/java.git）
+
+# 0328 review
 • If you don't want a class to be initialized, mark it as abstract with the abstract keyword.
 • Abstract classes can have both abstract and non-abstract methods.
 • If the class has an abstract method, this class must be identified as abstract.
