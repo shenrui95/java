@@ -10,9 +10,9 @@
 #Regardless of the type of object actually referenced, the method can only be called if the type of the reference variable is a type with a method.
 #An Object reference variable cannot be assigned to another type without a type conversion. If the object type on the heap is not compatible with the type being converted, the conversion will generate an exception during the execution.
 #Objects fetched from ArrayList<Object> can only be referenced by Object, otherwise they will be changed with type conversion.
-# java does not allow multiple inheritance
-# Declare the interface by replacing the class with the keyword interface
-# Use the implements keyword when implementing the interface.
-# Class can implement multiple interfaces
-# A class that implements an interface must implement all its methods.
-# Methods that want to call a parent class from a subclass can be referenced with the keyword super.
+#java does not allow multiple inheritance
+#Declare the interface by replacing the class with the keyword interface
+#Use the implements keyword when implementing the interface.
+#Class can implement multiple interfaces
+#A class that implements an interface must implement all its methods.
+#Methods that want to call a parent class from a subclass can be referenced with the keyword super.
