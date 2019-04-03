@@ -1,5 +1,5 @@
 # java
-# shenruih(https://github.com/shenrui95/java.git）
+# shenrui(https://github.com/shenrui95/java.git）
 
 # 0328 review
 • If you don't want a class to be initialized, mark it as abstract with the abstract keyword.
