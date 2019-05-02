@@ -1,5 +1,5 @@
-package GUI;
- 
+package gui;
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Container;
@@ -122,6 +122,7 @@ public class Count extends JApplet implements ActionListener
         String result = String.valueOf(ans);
         return result;
 	}
+
 	public static void main(String args[])
 	{
 		JFrame frame = new JFrame("Count");
@@ -131,5 +132,5 @@ public class Count extends JApplet implements ActionListener
 		applet.start();
 		frame.setSize(350, 400);//Set window size
 		frame.setVisible(true);//let window visible
- 
+	}
 }
